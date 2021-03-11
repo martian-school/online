@@ -10,6 +10,7 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "lerna": "lerna run"
+    "lerna": "lerna run",
+    "bootstrap": "lerna bootstrap"
   }
 }

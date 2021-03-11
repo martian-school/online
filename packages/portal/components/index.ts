@@ -1,0 +1,1 @@
+export {AppBaseTemplate} from './templates'
